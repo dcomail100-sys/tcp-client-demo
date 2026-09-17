@@ -1,5 +1,4 @@
-
-# tcp-client-demo
+# PulseNet
 
 Simple TCP client written in C for learning low-level networking.
 
